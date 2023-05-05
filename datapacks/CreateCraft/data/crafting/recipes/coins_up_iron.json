@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "createdeco:iron_coin"
+        },
+        {
+            "item": "createdeco:iron_coin"
+        },
+        {
+            "item": "createdeco:iron_coin"
+        }
+    ],
+    "result": {
+        "item": "createdeco:copper_coin",
+        "count": 1
+    }
+}

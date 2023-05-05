@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "createdeco:zinc_coin"
+        }
+    ],
+    "result": {
+        "item": "createdeco:iron_coin",
+        "count": 1
+    }
+}

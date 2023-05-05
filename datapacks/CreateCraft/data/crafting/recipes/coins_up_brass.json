@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "createdeco:brass_coin"
+        },
+        {
+            "item": "createdeco:brass_coin"
+        },
+        {
+            "item": "createdeco:brass_coin"
+        }
+    ],
+    "result": {
+        "item": "createdeco:netherite_coin",
+        "count": 1
+    }
+}

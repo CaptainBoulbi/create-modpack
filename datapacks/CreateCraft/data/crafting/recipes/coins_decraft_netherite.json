@@ -1,0 +1,33 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "createdeco:netherite_coin"
+        },
+        {
+            "item": "createdeco:netherite_coin"
+        },
+        {
+            "item": "createdeco:netherite_coin"
+        },
+        {
+            "item": "createdeco:netherite_coin"
+        },
+        {
+            "item": "minecraft:gold_ingot"
+        },
+        {
+            "item": "minecraft:gold_ingot"
+        },
+        {
+            "item": "minecraft:gold_ingot"
+        },
+        {
+            "item": "minecraft:gold_ingot"
+        }
+    ],
+    "result": {
+        "item": "minecraft:netherite_ingot",
+        "count": 1
+    }
+}
