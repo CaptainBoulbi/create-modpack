@@ -45,6 +45,10 @@ ce n'est pas la liste complete des mods
 - Blue Skies : https://www.curseforge.com/minecraft/mc-mods/blue-skies
 - Dragon Mounts : https://www.curseforge.com/minecraft/mc-mods/dragon-mounts-legacy
 - Waystones : https://www.curseforge.com/minecraft/mc-mods/waystones
+- Immersive armors : https://www.curseforge.com/minecraft/mc-mods/immersive-armors
+- Immersive aircraft : https://www.curseforge.com/minecraft/mc-mods/immersive-aircraft
+- Rotten creatures : https://www.curseforge.com/minecraft/mc-mods/rotten-creatures
+- Wandering trapper : https://www.curseforge.com/minecraft/mc-mods/wandering-trapper
 
 ## Magie
 - Ars nouveau : https://www.curseforge.com/minecraft/mc-mods/ars-nouveau
@@ -53,6 +57,8 @@ ce n'est pas la liste complete des mods
 - Origins: Accessibilities : https://www.curseforge.com/minecraft/mc-mods/origins-accessibilities
 - Origins: Classes : https://www.curseforge.com/minecraft/mc-mods/origins-classes-forge
 - Strictly Origins : https://www.curseforge.com/minecraft/mc-mods/strictly-origins
+- Relics : https://www.curseforge.com/minecraft/mc-mods/relics-mod
+- Village artifacts : https://www.curseforge.com/minecraft/mc-mods/villager-tools
 
 ## Nourriture
 - Alcocraft : https://www.curseforge.com/minecraft/mc-mods/alcocraft-beer-and-stuff
@@ -82,4 +88,5 @@ ce n'est pas la liste complete des mods
 - Shulker Drops Two : https://www.curseforge.com/minecraft/mc-mods/shulker-drops-two
 - Supplementaries : https://www.curseforge.com/minecraft/mc-mods/supplementaries
 - Torchmaster : https://www.curseforge.com/minecraft/mc-mods/torchmaster
+- Doggy talents : https://www.curseforge.com/minecraft/mc-mods/doggy-talents
 
