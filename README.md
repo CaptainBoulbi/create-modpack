@@ -77,6 +77,7 @@ ce n'est pas la liste complete des mods
 - FramedBlocks : https://www.curseforge.com/minecraft/mc-mods/framedblocks
 - Rusted Iron : https://www.curseforge.com/minecraft/mc-mods/rusted-iron
 - Zetter : https://www.curseforge.com/minecraft/mc-mods/zetter
+- Building gadgets : https://www.curseforge.com/minecraft/mc-mods/building-gadgets
 
 ## Misc
 - Alloyed Guns : https://www.curseforge.com/minecraft/mc-mods/create-alloyed-guns
